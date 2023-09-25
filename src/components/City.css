@@ -1,0 +1,12 @@
+.city-card{
+    background-color: white;
+    padding: 20px;
+    border-radius: 20px;
+    border: 1px solid gray;
+    min-width: 400px;
+    margin: 10px;
+  }
+
+  h1{
+    text-align: center;
+  }
